@@ -1,6 +1,6 @@
 ## Calculadora
 
-###Sobre
+### Sobre
 
 Repositório dedicado ao projeto proposto no workshop da {reprograma}, em agosto de 2021.
 
